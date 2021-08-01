@@ -33,6 +33,7 @@ Lihat [Video](https://www.youtube.com/watch?v=Y-Km-IT8GkM)
 # Untuk menjalankan project Laravel bisa menggunakan
 1. Perintah ```php artisan serve``` ==> Jika komputer dalam keadaan ONLINE
 2. Perintah ```php artisan serve --host=0.0.0.0 -port=8080``` ==> Jika komputer dalam keadaan OFFLINE
+
 *Ket :
 ```--host=0.0.0.0``` ==> nanti diganti dengan alamat IP PC ketika membuka di Web Browser
 ```-port=8080``` ==> Diikuti dengan port 8080 dan ini bisa di custome
