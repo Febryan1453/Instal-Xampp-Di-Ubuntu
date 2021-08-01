@@ -21,3 +21,5 @@
 3. Langkah ketiga ketikan perintah ```sudo su``` 
 4. Jika dimintai password masukkan password laptop anda
 5. Langkah terakhir ketikan perintah ```chmod 777 -R htdocs/``` 
+
+Lihat [Video](https://www.youtube.com/watch?v=Y-Km-IT8GkM)
