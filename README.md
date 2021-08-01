@@ -1,4 +1,4 @@
-# Cara Install XAMPP di Linux Ubuntu 20.04
+# Cara Install XAMPP di Linux Ubuntu 20.10
 1. Langkah pertama download dulu xampp [Di Sini](https://www.apachefriends.org/download.html) pilih XAMPP For Linux dan pilih versinya
 2. Langkah kedua buka terimal dengan perintah ```Ctrl+Alt+T```
 3. Langkah ketiga Masuk ke directory Downloads dengan peritah ```cd Downloads/```
@@ -15,5 +15,9 @@
 1. Langkah pertama buka terminal dengan perintah ```Ctrl+Alt+T``` 
 2. Langkah kedua ketikan perintah ``` sudo /opt/lampp/lampp stop ```
 3. Finish
-
-Video [RudiEdukasi](https://www.youtube.com/watch?v=Y-Km-IT8GkM)
+# Cara memberikan hak akses di htdocs untuk membuat project/folder baru
+1. Langkah pertama buka terminal dengan perintah ```Ctrl+Alt+T``` 
+2. Langkah kedua ketikan perintah ```cd /opt/lamp``` 
+3. Langkah ketiga ketikan perintah ```sudo su``` 
+4. Jika dimintai password masukkan password laptop anda
+5. Langkah terakhir ketikan perintah ```chmod 777 -R htdocs/``` 
