@@ -23,3 +23,11 @@
 5. Langkah terakhir ketikan perintah ```chmod 777 -R htdocs/``` 
 
 Lihat [Video](https://www.youtube.com/watch?v=Y-Km-IT8GkM)
+
+# Cara Install LARAVEL 8 di Ubuntu
+1. Langkah pertama buka terminal dengan perintah ```Ctrl+Alt+T``` 
+2. Langkah kedua ketikan perintah ```hostnamectl``` 
+3. Langkah ketiga ketikan perintah ```sudo apt install php php-common php-bcmath php-mbstring php-mysql php-tokenizer php-zip``` 
+4. Langkah keempat ketikan perintah ```sudo apt install composer``` 
+5. Selanjutnya baca dokumentasi di [laravel.com](https://laravel.com/docs/8.x) untuk cara instalasi lebih lanjut
+
