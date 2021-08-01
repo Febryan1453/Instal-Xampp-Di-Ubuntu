@@ -55,3 +55,10 @@ Lihat [Sumber Install VSC](https://linuxize.com/post/how-to-install-visual-studi
 3. Finish
 
 Lihat [Sumber npm Not Found](https://stackoverflow.com/questions/31472755/sudo-npm-command-not-found)
+
+# Menginstal Postman dengan Paket Snap 
+1. Langkah pertama buka terminal dengan perintah ```Ctrl+Alt+T``` 
+2. Langkah kedua ketikan perintah ```sudo snap install postman``` 
+3. Finish
+
+Lihat [Sumber Install Postman](https://www.linuxid.net/25018/install-dan-konfigurasi-postman-di-ubuntu-18-04/)
