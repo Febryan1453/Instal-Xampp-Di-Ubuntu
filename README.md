@@ -17,7 +17,7 @@
 3. Finish
 # Cara memberikan hak akses di htdocs untuk membuat project/folder baru
 1. Langkah pertama buka terminal dengan perintah ```Ctrl+Alt+T``` 
-2. Langkah kedua ketikan perintah ```cd /opt/lamp``` 
+2. Langkah kedua ketikan perintah ```cd /opt/lampp``` 
 3. Langkah ketiga ketikan perintah ```sudo su``` 
 4. Jika dimintai password masukkan password laptop anda
 5. Langkah terakhir ketikan perintah ```chmod 777 -R htdocs/``` 
@@ -47,4 +47,11 @@ Lihat [Video](https://www.youtube.com/watch?v=C6pFekvAnr8&t=300s)
 2. Langkah kedua ketikan perintah ```sudo snap install --classic code``` 
 3. Finish
 
-Lihat [Sumber](https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/)
+Lihat [Sumber Install VSC](https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/)
+
+# Mengatasi masalah npm not found
+1. Langkah pertama buka terminal dengan perintah ```Ctrl+Alt+T``` 
+2. Langkah kedua ketikan perintah ```sudo apt-get install npm``` 
+3. Finish
+
+Lihat [Sumber npm Not Found](https://stackoverflow.com/questions/31472755/sudo-npm-command-not-found)
