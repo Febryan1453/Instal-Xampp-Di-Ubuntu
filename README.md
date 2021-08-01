@@ -42,7 +42,7 @@ Lihat [Video](https://www.youtube.com/watch?v=Y-Km-IT8GkM)
 
 Lihat [Video](https://www.youtube.com/watch?v=C6pFekvAnr8&t=300s)
 
-# Menginstal Kode Visual Studio sebagai Paket Snap 
+# Menginstal Visual Studio Code dengan Paket Snap 
 1. Langkah pertama buka terminal dengan perintah ```Ctrl+Alt+T``` 
 2. Langkah kedua ketikan perintah ```sudo snap install --classic code``` 
 3. Finish
