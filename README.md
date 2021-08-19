@@ -24,6 +24,15 @@
 
 Lihat [Video](https://www.youtube.com/watch?v=Y-Km-IT8GkM)
 
+# Jika http://localhost/phpmyadmin not found pada Linux
+1. Langkah pertama buka terminal dengan perintah ```Ctrl+Alt+T``` 
+2. Langkah kedua ketikan perintah ```sudo ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin``` 
+3. Langkah ketiga ketikan perintah ```sudo /etc/init.d/apache2 reload``` atau ```sudo /opt/lampp/lampp start```
+4. Jika dimintai password masukkan password laptop anda
+5. Langkah terakhir buka lagi http://localhost/phpmyadmin pada web browser
+
+Lihat Sumber [Video](https://www.youtube.com/watch?v=AkkL2QRJjHw)
+
 # Cara Install LARAVEL 8 di Ubuntu
 1. Langkah pertama buka terminal dengan perintah ```Ctrl+Alt+T``` 
 2. Langkah kedua ketikan perintah ```hostnamectl``` 
