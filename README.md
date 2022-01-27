@@ -7,6 +7,10 @@
 6. Langkah keenam ketikan perintah ```sudo  ./xampp-linux-x64-<ubahdenganversiygdidownloads>-0-installer.run```
 7. Langkah ketujun akan muncul tampilan windows installer xampp tinggal tekan tombol next dst..
 8. Selesai..
+
+# Menginstal Composer di Ubuntu
+Lihat [Sumber Install PHP 8 di Ubuntu Cara 2](https://musaamin.web.id/cara-install-composer-di-ubuntu/)
+
 # Cara untuk menjalankan XAMPP di Linux
 1. Langkah pertama buka terminal dengan perintah ```Ctrl+Alt+T``` 
 2. Langkah kedua ketikan perintah ``` sudo /opt/lampp/lampp start ```
