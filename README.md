@@ -77,3 +77,9 @@ Lihat [Sumber Install Google Chrome](https://jagongoding.com/linux/ubuntu/cara-i
 
 # Menginstal Gnome Tweak Tool
 Lihat [Sumber Install Gnome Tweak Tool](https://www.linuxsec.org/2019/08/cara-install-gnome-tweak-tool-di-ubuntu.html)
+
+# Menginstal PHP 8 Cara 1
+Lihat [Sumber Install PHP 8 di Ubuntu Cara 1](https://id.linuxcapable.com/how-to-install-php-8-1-on-ubuntu-20-04/)
+
+# Menginstal PHP 8 Cara 2
+Lihat [Sumber Install PHP 8 di Ubuntu Cara 2](https://www.cloudbooklet.com/how-to-upgrade-php-version-to-php-8-0-on-ubuntu/)
