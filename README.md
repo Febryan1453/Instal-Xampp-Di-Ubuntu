@@ -9,7 +9,7 @@
 8. Selesai..
 
 # Menginstal Composer di Ubuntu
-Lihat [Sumber Install PHP 8 di Ubuntu Cara 2](https://musaamin.web.id/cara-install-composer-di-ubuntu/)
+Lihat [Sumber Composer di Ubuntu](https://musaamin.web.id/cara-install-composer-di-ubuntu/)
 
 # Cara untuk menjalankan XAMPP di Linux
 1. Langkah pertama buka terminal dengan perintah ```Ctrl+Alt+T``` 
