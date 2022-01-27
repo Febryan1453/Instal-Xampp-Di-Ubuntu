@@ -71,3 +71,9 @@ Lihat [Sumber npm Not Found](https://stackoverflow.com/questions/31472755/sudo-n
 3. Finish
 
 Lihat [Sumber Install Postman](https://www.linuxid.net/25018/install-dan-konfigurasi-postman-di-ubuntu-18-04/)
+
+# Menginstal Google Chrome di Ubuntu 
+Lihat [Sumber Install Google Chrome](https://jagongoding.com/linux/ubuntu/cara-install-google-chrome-di-ubuntu/)
+
+# Menginstal Gnome Tweak Tool
+Lihat [Sumber Install Gnome Tweak Tool](https://www.linuxsec.org/2019/08/cara-install-gnome-tweak-tool-di-ubuntu.html)
